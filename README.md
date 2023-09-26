@@ -4,9 +4,13 @@ Unishyper: A Rust-based Unikernel Enhancing Reliability and Efficiency of Embedd
 
 [Unishyper](https://gitee.com/unishyper/unishyper) is now open sourced at Gitee under Mulan PSL v2.
 
-## Boards and Platforms
+## Related projects
 
-Unishyper  now supports following platforms:
+* Rust-based embedded hypervisor [Rust-Shyper](https://gitee.com/openeuler/rust_shyper) and its improved version [RTShyper](https://github.com/tsemo4917/rtshyper)
+* Rust-based micro-kernel [Rustpi-legacy](https://github.com/tonnylyz/rustpi-legacy) and its improved version [Ruspie](https://github.com/tonnylyz/rustpie)
+* Rust-based modular unikernel [ArceOS](https://github.com/rcore-os/arceos)
+
+## Supported Boards and Platforms
 
 | MACHINE | ARCH                    | Description                             |
 |---------|-------------------------|-----------------------------------------|
